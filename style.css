@@ -1,0 +1,71 @@
+button{
+    background-color: rgb(204, 247, 33);
+    
+}
+a{
+    color: rgb(24, 246, 64);
+}
+h1{
+    border: double;
+}
+label{
+    background-color: blueviolet;
+}
+input{
+
+}
+body{
+    background-color: rgb(228, 228, 236);
+}
+
+div{
+
+    display: flex;
+    flex-direction: row;
+}
+
+/*body{
+    background-image: url(sung-jinwoo-dragon-3840x2160-15351.jpg);
+   background-size: cover;
+}*/
+
+
+
+
+table,th,td{
+    border:1px solid;
+    border-collapse:collapse;
+    width: 50%;
+    table-layout:fixed;
+    text-align:center;
+    /*width:20px;*/
+    height: 50px;
+}
+#nav{
+    height: 20px;
+    margin-top: 25px;
+    border-radius: 25%;
+}
+th{
+    background-color: #3889;
+}
+.uldivcontent{
+    display:flex;
+    background-color:#5555;
+ }
+ ul{
+
+    list-style-type:none;
+    gap:10px;
+    padding-top: 10px;
+ }
+   
+
+
+
+::contentcss
+
+
+
+
+

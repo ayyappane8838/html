@@ -1,0 +1,16 @@
+<!doctype html>
+ <html>
+<head>
+    <title>login pge</title>
+ <body>
+    <input type="number" id="num"placeholder="enter your number">
+    <button onclick="check even odd()">check</button>
+    <p id="resylt">  </p>
+    
+    <script>
+        function check evan odd(){
+            let num=document.getElementsByid('result').textcontent=num %2==0?"even":"odd";
+        }
+     </script>
+ </body>
+</head>
